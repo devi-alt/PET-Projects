@@ -1,0 +1,8 @@
+# Rust build folder
+/target
+
+# Backup files
+**/*.rs.bk
+
+# Cargo lock file (optional)
+/Cargo.lock
